@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "60e440c56429673880364919"
+  },
+  "status": true,
+  "password": "$2b$10$ucDY1knOFwyvXrGWhZzeBeT700wKCazZ3Yvmh0MggXuBwt8wAWd4y",
+  "email": "nikeshpun78@gmail.com",
+  "name": "nikesh pun magar",
+  "usertype": "superadmin",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e47500e4af8806ec35ba0c"
+  },
+  "status": true,
+  "password": "$2b$10$X.5xUGzDoLr7xA69zhj17.wO75.gfcq8HDTd5IzNlhdnSlUg3AInO",
+  "email": "nikeshpun788@gmail.com",
+  "name": "Nikepike",
+  "usertype": "healthworker",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e4758fb19d3612e842915a"
+  },
+  "status": true,
+  "password": "$2b$10$fpIeWoODjPiCI7uE.mH23.TEL/EC9XhGr4A6K6YsSDWU/Ep2KnvaO",
+  "email": "nikeshpun7888@gmail.com",
+  "name": "nikesh pun magar",
+  "usertype": "superadmin",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61002b802af60c2dd449c975"
+  },
+  "status": true,
+  "password": "$2b$10$5gyy/YhtfMhtAzSkm4Ni0.UnFDMKxLf3fkw70L3u3EW9N0o9m2nX6",
+  "email": "user@gmail.com",
+  "name": "user",
+  "usertype": "superadmin",
+  "__v": 0
+}]

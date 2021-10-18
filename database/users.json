@@ -1,0 +1,128 @@
+[{
+  "_id": {
+    "$oid": "609fe7cefa59ab31801e4fdb"
+  },
+  "country": "Nepal",
+  "plasma_donator": false,
+  "reset_token": null,
+  "location": "bhaktapur",
+  "blood_type": "AB+",
+  "is_vaccinated": true,
+  "was_corona_patient": false,
+  "password": "$2b$10$ifYZnMbV7ddjmHzlCVOZPuqm90np2dZiCixerunbhWaipvw0C4XYm",
+  "email": "nikeshpun78@gmail.com",
+  "name": "nikesh pun",
+  "phone": 9045434345,
+  "survey": [],
+  "__v": 0,
+  "current_health": 1
+},{
+  "_id": {
+    "$oid": "60e729c6c8bcfd03fcc41ae9"
+  },
+  "country": "Nepal",
+  "plasma_donator": false,
+  "reset_token": null,
+  "location": null,
+  "blood_type": null,
+  "is_vaccinated": false,
+  "was_corona_patient": false,
+  "active": true,
+  "language_nepali": false,
+  "password": "$2b$10$fOEDf7bKFf/TiqsH37Tbyu527rPMj.m8kM.w4XrWpySBGcNW/Gzky",
+  "email": "nikeshpun7888@gmail.com",
+  "name": "nikesh pun magar",
+  "phone": 9845722545,
+  "survey": [],
+  "current_health": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e72ab515d6d83cd828fcf1"
+  },
+  "country": "Nepal",
+  "plasma_donator": false,
+  "reset_token": null,
+  "location": null,
+  "blood_type": null,
+  "is_vaccinated": false,
+  "was_corona_patient": false,
+  "active": true,
+  "language_nepali": false,
+  "password": "$2b$10$9qJ2ue39jKHpk.1B6Ou31uKc3sCOfI/EHM3DwqJR7J2LAe.k7gDAe",
+  "email": "nikeshpun788@gmail.com",
+  "name": "nikesh pun magar",
+  "phone": 9845722545,
+  "survey": [],
+  "current_health": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e72ce57e03421060ff7fa5"
+  },
+  "country": "Nepal",
+  "plasma_donator": false,
+  "reset_token": null,
+  "current_health": 0,
+  "recent_health": [
+    {
+      "updated_at": {
+        "default": {
+          "$date": "2021-07-08T16:50:18.382Z"
+        }
+      },
+      "status": {
+        "default": 0
+      }
+    }
+  ],
+  "location": null,
+  "blood_type": null,
+  "is_vaccinated": false,
+  "was_corona_patient": false,
+  "active": true,
+  "language_nepali": false,
+  "password": "$2b$10$MAdLW9JLa8I4HRnrTNDlh.K.m61r4iyziSDCxaJ1IDKtEhNueBwsq",
+  "email": "nikeshpun798@gmail.com",
+  "name": "nikesh pun magar",
+  "phone": 9845722545,
+  "survey": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60eaf1a425aec93d6003bea5"
+  },
+  "country": "Nepal",
+  "plasma_donator": true,
+  "reset_token": null,
+  "current_health": 0,
+  "recent_health": [
+    {
+      "updated_at": {
+        "default": {
+          "$date": "2021-07-11T13:26:58.943Z"
+        }
+      },
+      "status": {
+        "default": 0
+      }
+    }
+  ],
+  "location": null,
+  "blood_type": "unverified",
+  "latest_blood_donation": {
+    "$date": "2021-07-11T13:26:58.943Z"
+  },
+  "is_vaccinated": false,
+  "was_corona_patient": false,
+  "active": true,
+  "language_nepali": false,
+  "blood_dontation_status": true,
+  "password": "$2b$10$TrQObaoOocFszSRWDAnKw.EPVLykbnlymxnRs0FqlqP5y9D1PwMsS",
+  "email": "user@gmail.com",
+  "name": "user user",
+  "phone": 9845512123,
+  "survey": [],
+  "blood_donation_history": [],
+  "__v": 0
+}]

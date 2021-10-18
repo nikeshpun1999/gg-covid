@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "6101276528ed6a3bb87f36ae"
+  },
+  "verified": false,
+  "active": true,
+  "status": true,
+  "organization_name_nep": "चितवन समाधानहरू",
+  "organization_name_eng": "chitwan solutions",
+  "help_type": "ambulance",
+  "contact": 98234728343,
+  "location": "bharatpur-4, lionschowk",
+  "user_id": "61002b802af60c2dd449c975",
+  "__v": 0
+}]
